@@ -1,3 +1,4 @@
+<img width="138" height="126" alt="charmander" src="https://github.com/user-attachments/assets/8fcf3315-f1ef-4547-8b8b-a48197625f81" />
 <img width="196" height="200" alt="charizard-pokemon" src="https://github.com/user-attachments/assets/9d89b1ec-ea01-4325-aa45-755a07f52f6a" />
 <img width="200" height="200" alt="gengar-gen-2" src="https://github.com/user-attachments/assets/ee471053-4059-44f4-beba-27fcdd502541" />
 <div align="center">
