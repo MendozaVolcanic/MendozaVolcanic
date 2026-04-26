@@ -1,4 +1,3 @@
-<img width="152" height="174" alt="surfing-pikachu" src="https://github.com/user-attachments/assets/2c19b5e9-0c1c-4c02-a7db-871a36bbde84" />
 <img width="220" height="220" alt="scv-terran" src="https://github.com/user-attachments/assets/4bc7b74c-864f-4c21-9589-db51e3aa3219" />
 <img width="498" height="206" alt="carica-dei-rohirrim-ride-of-the-rohirrim" src="https://github.com/user-attachments/assets/509555e3-61af-4420-9f60-dc4ce0c57801" />
 <img width="374" height="211" alt="game-of-thrones-title-george-rr-martin-khaleesi-winter-is-coming-intro-game-of-thrones" src="https://github.com/user-attachments/assets/fe0b2205-8286-4b2f-82c2-20d87ae36313" />
